@@ -1,7 +1,7 @@
 
 # Changelog
 
-## [1.1.5 - Unreleased]
+## [1.1.5] - 2025-04-10
 ### Changed
 ### Added
 - Log stacktrace with source filename, function and line number
